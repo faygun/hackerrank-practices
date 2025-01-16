@@ -111,7 +111,7 @@ public static class WarmUpChallenges
             if(s[i] == 'a')
              repeatCountOfA++;
         }
-        
+
         // 1
         var remainig = n % s.Length;
         // 3
